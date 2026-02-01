@@ -27,4 +27,4 @@ This portfolio webpage includes:
 ---
 
 ## 📂 Project Structure
-
+![image](https://github.com/ritesh01-hub/responsive-portfolio/blob/af8c62e8ec34c3bcc0b9cefe149f3fa372f9310f/Screenshot%202026-02-02%20002610.png)
